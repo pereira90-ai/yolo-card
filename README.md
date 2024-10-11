@@ -5,7 +5,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/noorkhokhar99/Playing-Cards-Detection-with-YoloV8.git
+git clone https://github.com/pereira90-ai/Playing-Cards-Detection-with-YoloV8.git
 ```
 
 - Goto cloned folder
@@ -34,7 +34,7 @@ python filename.py
     <td>Playing-Cards-Detection-with-YoloV8</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/noorkhokhar99/Playing-Cards-Detection-with-YoloV8/blob/main/Blue%20Bold%20Business%20YouTube%20Thumbnail.png"></td>
+    <td><img src="https://github.com/pereira90-ai/Playing-Cards-Detection-with-YoloV8/blob/main/Blue%20Bold%20Business%20YouTube%20Thumbnail.png"></td>
   </tr>
  </table>
 
